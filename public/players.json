@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name": "Rohit Sharma",
+        "country": "India",
+        "image": "https://i.ibb.co.com/SQqgDhD/rohit-3.jpg",
+        "role": "Batsman",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm off-break",
+        "biddingPrice": 1500000
+    },
+    {
+        "id": 2,
+        "name": "Quinton de Kock",
+        "country": "South Africa",
+        "image": "https://i.ibb.co.com/DzjdvH3/de-kock2.jpg",
+        "role": "Wicketkeeper",
+        "battingType": "Left-handed",
+        "bowlingType": "N/A",
+        "biddingPrice": 750000
+    },
+    {
+        "id": 3,
+        "name": "Hashim Amla",
+        "country": "South Africa",
+        "image": "https://i.ibb.co.com/VLLWk8R/hasim.jpg",
+        "role": "Batsman",
+        "battingType": "Right-handed",
+        "bowlingType": "N/A",
+        "biddingPrice": 1000000
+    },
+    {
+        "id": 4,
+        "name": "Virat Kohli",
+        "country": "India",
+        "image": "https://i.ibb.co.com/m9DxSFD/kohli.jpg",
+        "role": "Batsman",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm medium",
+        "biddingPrice": 1500000
+    },
+    {
+        "id": 5,
+        "name": "Mahmudullah",
+        "country": "Bangladesh",
+        "image": "https://i.ibb.co.com/M5XKMXc/riyad.jpg",
+        "role": "All-rounder",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm off-break",
+        "biddingPrice": 650000
+    },
+    {
+        "id": 6,
+        "name": "Hardik Pandya",
+        "country": "India",
+        "image": "https://i.ibb.co.com/RvPZFV1/pandya.jpg",
+        "role": "All-rounder",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm fast-medium",
+        "biddingPrice": 1200000
+    },
+    {
+        "id": 7,
+        "name": "Nicholas Pooran",
+        "country": "West Indies",
+        "image": "https://i.ibb.co.com/jfcSWhV/nicholas-pooran.jpg",
+        "role": "Wicketkeeper",
+        "battingType": "Left-handed",
+        "bowlingType": "N/A",
+        "biddingPrice": 600000
+    },
+    {
+        "id": 8,
+        "name": "Jasprit Bumrah",
+        "country": "India",
+        "image": "https://i.ibb.co.com/B656CBP/bumra.jpg",
+        "role": "Bowler",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": 950000
+    },
+    {
+        "id": 9,
+        "name": "Mehedy Hasan Miraz",
+        "country": "Bangladesh",
+        "image": "https://i.ibb.co.com/C6K3rTd/mehedy.jpg",
+        "role": "All-rounder",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm off-break",
+        "biddingPrice": 450000
+    },
+    {
+        "id": 10,
+        "name": "Tamim Iqbal",
+        "country": "Bangladesh",
+        "image": "https://i.ibb.co.com/r7z0NPs/tamim-iqbal.jpg",
+        "role": "Batsman",
+        "battingType": "Left-handed",
+        "bowlingType": "N/A",
+        "biddingPrice": 700000
+    },
+    {
+        "id": 11,
+        "name": "Mushfiqur Rahim",
+        "country": "Bangladesh",
+        "image": "https://i.ibb.co.com/wCZ5YMZ/mush-rahim.jpg",
+        "role": "Wicketkeeper",
+        "battingType": "Right-handed",
+        "bowlingType": "N/A",
+        "biddingPrice": 800000
+    },
+    {
+        "id": 12,
+        "name": "David Miller",
+        "country": "South Africa",
+        "image": "https://i.ibb.co.com/hRfDQRM/miller.jpg",
+        "role": "Batsman",
+        "battingType": "Left-handed",
+        "bowlingType": "N/A",
+        "biddingPrice": 850000
+    },
+    {
+        "id": 13,
+        "name": "Lockie Ferguson",
+        "country": "New Zealand",
+        "image": "https://i.ibb.co.com/mzzq4vm/ferguson3.jpg",
+        "role": "Bowler",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": 950000
+    },
+    {
+        "id": 14,
+        "name": "Mustafizur Rahman",
+        "country": "Bangladesh",
+        "image": "https://i.ibb.co.com/rpQZc8y/mustafizur2.jpg",
+        "role": "Bowler",
+        "battingType": "Left-handed",
+        "bowlingType": "Left-arm fast-medium",
+        "biddingPrice": 900000
+    },
+    {
+        "id": 15,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "image": "https://i.ibb.co.com/LnWDxv1/willamson2.jpg",
+        "role": "Batsman",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm off-spin",
+        "biddingPrice": 1100000
+    }
+]
